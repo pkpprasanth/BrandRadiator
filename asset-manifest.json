@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BrandRadiator/static/css/main.3fb1439c.css",
+    "main.js": "/BrandRadiator/static/js/main.f5014605.js",
+    "static/js/787.4ab19abe.chunk.js": "/BrandRadiator/static/js/787.4ab19abe.chunk.js",
+    "index.html": "/BrandRadiator/index.html",
+    "main.3fb1439c.css.map": "/BrandRadiator/static/css/main.3fb1439c.css.map",
+    "main.f5014605.js.map": "/BrandRadiator/static/js/main.f5014605.js.map",
+    "787.4ab19abe.chunk.js.map": "/BrandRadiator/static/js/787.4ab19abe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb1439c.css",
+    "static/js/main.f5014605.js"
+  ]
+}
